@@ -1,0 +1,6 @@
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\testEx\testEx\bin\Debug\testEx.exe.config
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\testEx\testEx\bin\Debug\testEx.exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\testEx\testEx\bin\Debug\testEx.pdb
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\testEx\testEx\obj\Debug\testEx.csprojResolveAssemblyReference.cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\testEx\testEx\obj\Debug\testEx.exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\testEx\testEx\obj\Debug\testEx.pdb
